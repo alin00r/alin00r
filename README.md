@@ -3,6 +3,8 @@
 
 <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">
     
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petertokri&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Nour" /> 
+</p>
     
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/Alimuha84479016">
