@@ -1,5 +1,5 @@
 ### Hi there i'm Ali Nour 
-### wanna be a front end devolper👋 
+###                                  wanna be a front end devolper👋 
 
 
 <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">
