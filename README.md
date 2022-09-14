@@ -1,12 +1,15 @@
-###                                    Ello there i'm Ali Nour .... wanna be frontend Engineer.👋
+<h1 align="center"><b>  Ello there i'm Ali Nour </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%32a8a6&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;frontend+Engineer;"></a>
 
-
+</p>
 <p align="left"><img src="https://i.pinimg.com/564x/a8/92/29/a89229c4160fe0063866cd6d08b5f130.jpg"></p>
 
 
 <!--<img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">-->
    
-   
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat" alt="alin00r" /> </p>
+  
    
    
 <!--Ehusiastic,details oriented,interested in web development and everything in its orbit.👋-->
