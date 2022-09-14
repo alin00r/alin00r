@@ -1,11 +1,12 @@
-### Hi there i'm Ali Nour .... wanna be a front end devolper👋
+### Ello there i'm Ali Nour .... wanna be a front end devolper👋
 
 
 
 <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Nour" /> 
+<p align="left"> <img src="https://i.pinimg.com/564x/03/d9/52/03d952bce7d2d1959a6740a22e13060d.jpg" alt="Ali Nour" /> 
 </p>
+<!--https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat-->
     
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/Alimuha84479016">
