@@ -1,11 +1,21 @@
-### Ello there i'm Ali Nour .... wanna be a front end devolper👋
+###                                    Ello there i'm Ali Nour .... wanna be frontend Engineer.👋
 
 
+<p align="left"><img src="https://i.pinimg.com/564x/a8/92/29/a89229c4160fe0063866cd6d08b5f130.jpg"></p>
 
-<img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">
+
+<!--<img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">-->
+   
+   
+   
+   
+<!--Ehusiastic,details oriented,interested in web development and everything in its orbit.👋-->
     
-<p align="left"> <img src="https://i.pinimg.com/564x/03/d9/52/03d952bce7d2d1959a6740a22e13060d.jpg" alt="Ali Nour" /> 
-</p>
+    
+    
+<!--lign="left"> <img src="https://i.pinimg.com/564x/03/d9/52/03d952bce7d2d1959a6740a22e13060d.jpg" width="300 hight="300">
+</p>-->
+    
 <!--https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat-->
     
 <div align="center" style="background:#414a50; padding: 25px 0;">
