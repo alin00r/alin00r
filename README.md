@@ -29,6 +29,92 @@
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
+
+## Stack
+
+<table>
+<tbody>
+<tr>
+    <td>OS</td>
+    <td>
+        <a href="https://zorin.com/os/" title="Linux / Zorin">
+            <img src='http://2.bp.blogspot.com/-gmuKwnwMDvM/UtPp9l4CvVI/AAAAAAAAHJc/bFKlsP-RTjI/s300/zorinos-thumb.jpg' alt='Zorin OS' height='32'>
+        </a>
+        <a href="https://www.microsoft.com/en-us/software-download/windows10" title="Windows">
+        <img src='https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png' alt='Windows' height='32'>
+        </a>
+        <a href="https://github.com/zsh-users/zsh" title="virtualbox ">
+            <img src='https://cdn-icons-png.flaticon.com/512/873/873151.png' alt='virtualbox icon' height='32'>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td>Tools</td>
+    <td>
+        <a href="https://code.visualstudio.com/" title="VSCode">
+            <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png' alt='VSCode icon' height='32'>
+        </a>
+        <a href="https://www.mathworks.com/products/matlab.html" title="Matlab">
+            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png' alt='Matlab Icon' height='32'>
+        </a>
+        <a href="https://git-scm.org" title="git">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' height='32'>
+        </a>
+        <a href="https://github.com" title="GitHub">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' height='32'>
+        </a>
+        <a href="https://mozilla.org/firefox/" title="Figma">
+            <img src='https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67' alt='Figma icon' height='32'>
+        </a>
+        <a href="https://www.google.com/chrome/" title="Chrome">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg' alt='Chrome Icon' height='32'>
+        </a>
+        <a href="https://mozilla.org/firefox/" title="Firefox">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg' alt='Firefox icon' height='32'>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td>Frontend</td>
+    <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='javascript' height='32'>
+        </a>
+        <a href="https://www.w3schools.com/css/" title="Css">
+            <img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png' alt='css icon' height='32'>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML 5">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg' alt='HTML Icon' height='32'>
+        </a>
+        <a href="https://getbootstrap.com" title="Bootstrap 4 and 5">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg' alt='Bootstrap Icon' height='32'>
+        </a>
+        <a href="https://fontawesome.com" title="Fontawesome 5 and 6">
+            <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fontawesome.svg' alt='fontaweseome icon' height='32'>
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>Desktop </td>
+    <td>
+        <a href="https://openjfx.io/" title="JavaFX">
+            <img src='https://static.wixstatic.com/media/2724b2_a4c660815dde4271be00cb7e9b9cae2c~mv2.png/v1/fit/w_605%2Ch_533%2Cal_c/file.png' alt='JavaFX' height='32'>
+        </a>
+        <a href="https://www.java.com/en/" title="Java">
+            <img src='https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png' alt='Java' height='32'>
+        </a>
+        <a href="https://gluonhq.com/products/scene-builder/" title="scenebuilder">
+            <img src='https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1' alt='scenebuilder' height='32'>
+        </a>
+        <a href="https://netbeans.apache.org/" title="Netbeans">
+            <img src='https://netbeans.apache.org/images/apache-netbeans.svg' alt='Netbeans' height='32'>
+        </a>
+    </td>
+</tr>
+</tbody>
+</table>
+
 <h2> Programming Languages</h2>
 
 <p>
