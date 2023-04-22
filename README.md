@@ -1,6 +1,6 @@
 <h1 align="center"><b>  OI there i'm Ali Nour </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%32a8a6&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;frontend+Engineer;"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%32a8a6&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;I’m+interested+in+Fullstack;I’m+looking+for +suitable+training+,+internship;"></a>
 
 </p>
 <p align="left"><img src="https://i.pinimg.com/564x/a8/92/29/a89229c4160fe0063866cd6d08b5f130.jpg"></p>
@@ -13,6 +13,7 @@
    
    
 <!--Ehusiastic,details oriented,interested in web development and everything in its orbit.👋-->
+
     
     
     
