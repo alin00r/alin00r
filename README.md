@@ -5,7 +5,12 @@
 </p>
 <p align="left"><img src="https://i.pinimg.com/564x/a8/92/29/a89229c4160fe0063866cd6d08b5f130.jpg"></p>
 
+<h3 align="left">Connect with </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/alinourr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinourr/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/N00R00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ali_Nour" height="30" width="40" /></a>
 
+</p>
 <!--<img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">-->
    
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat" alt="alin00r" /> </p>
