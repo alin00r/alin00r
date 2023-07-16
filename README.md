@@ -26,7 +26,8 @@
 </p>-->
     
 <!--https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat-->
-    
+https://www.codewars.com/users/aliNour/badges/large
+  
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/Alimuha84479016">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
