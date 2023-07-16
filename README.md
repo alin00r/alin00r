@@ -26,7 +26,20 @@
 </p>-->
     
 <!--https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat-->
-https://www.codewars.com/users/aliNour/badges/large
+
+
+
+
+![large](https://github.com/alin00r/alin00r/assets/74410154/11df69d2-435c-4362-b75e-f9d920845943)
+
+
+
+
+
+
+
+
+
   
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/Alimuha84479016">
