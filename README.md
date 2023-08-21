@@ -32,12 +32,7 @@
 
 ![large](https://github.com/alin00r/alin00r/assets/74410154/11df69d2-435c-4362-b75e-f9d920845943)
 
-
-
-
-
-
-
+![image](https://github.com/alin00r/alin00r/assets/74410154/14c4c52b-1a20-44a7-b710-1e5ac14b8c83)
 
 
   
