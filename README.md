@@ -5,7 +5,7 @@
 </p>
 <p align="left"><img src="https://i.pinimg.com/564x/a8/92/29/a89229c4160fe0063866cd6d08b5f130.jpg"></p>
 
-<h3 align="left">Connect with </h3>
+<h3 align="left">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alinourr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinourr/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/N00R00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ali_Nour" height="30" width="40" /></a>
