@@ -1,49 +1,27 @@
-<h1 align="center"><b>  OI there i'm Ali Nour </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%32a8a6&size=25&center=true&vCenter=true&width=800&height=150&lines=Computer+Science+Student;I’m+interested+in+Backend;"></a>
+<h1 align="center">Hi 👋, I'm Ali Nour</h1>
+<h3 align="center">Back-End Developer</h3>
+
+- 🌱 I’m currently learning **MongoDb**
+
+- 📫 How to reach me **alinour30211@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alinourr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinourr" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/N00R00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ali_Nour" height="30" width="40" /></a>                                   
+  <a href="https://fb.com/abo2002nour/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="ali Nour" height="30" width="40" /></a>                                      
+  <a href="https://instagram.com/therealalinour" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="ali Nour" height="30" width="40" /></a>                                        
+ <a href="https://twitter.com/Alimuha84479016" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="ali Nour" height="30" width="40" /></a>
+
 
 </p>
-<p align="left"><img src="https://i.pinimg.com/564x/a8/92/29/a89229c4160fe0063866cd6d08b5f130.jpg"></p>
-
-<h3 align="left">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/alinourr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinourr/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/N00R00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ali_Nour" height="30" width="40" /></a>
-
-</p>
-<!--<img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Joe-You.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5">-->
-   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat" alt="alin00r" /> </p>
-  
-   
-   
-<!--Ehusiastic,details oriented,interested in web development and everything in its orbit.👋-->
-
-    
-    
-    
-<!--lign="left"> <img src="https://i.pinimg.com/564x/03/d9/52/03d952bce7d2d1959a6740a22e13060d.jpg" width="300 hight="300">
-</p>-->
-    
-<!--https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat-->
-
-
-
-
-![large](https://github.com/alin00r/alin00r/assets/74410154/11df69d2-435c-4362-b75e-f9d920845943)
-
-![image](https://github.com/alin00r/alin00r/assets/74410154/14c4c52b-1a20-44a7-b710-1e5ac14b8c83)
-
-
-  
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/Alimuha84479016">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
-    </a>
-     <a href="https://www.linkedin.com/in/ali-nour-3309581b9/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>
 
 ## Stack
 <table>
@@ -181,6 +159,45 @@
          </td>
       </tr>
       <tr>
+           <td>Backend</td>
+         <td>
+            <a
+               href="#"
+               title="nodejs"
+               >
+            <img
+               src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+               alt="nodejs"
+               height="32"
+               />
+            </a>
+            <a
+               href="#"
+               title="Expressjs"
+               >
+            <img
+               src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+               alt="Expressjs"
+               height="32"
+               />
+            </a>
+            <a href="#" title="MongoDB">
+            <img
+               src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+               alt="MongoDB"
+               height="30"
+               />
+            </a>
+            <a href="#" title="Postman">
+            <img
+               src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
+               alt="Postman"
+               height="30"
+               />
+            </a>
+         </td>
+      </tr>
+      <tr>
          <td>Desktop</td>
          <td>
             <a href="https://openjfx.io/" title="JavaFX">
@@ -251,7 +268,6 @@
    </tbody>
 </table>
 
-
 <h2> Programming Languages</h2>
 
 <p>
@@ -262,21 +278,5 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
    
 </p>
-    <h2 align="left">Contact with me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-nour-3309581b9/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                       
-  <a href="https://fb.com/abo2002nour/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                      
-  <a href="https://instagram.com/therealalinour" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                        
- <a href="https://twitter.com/Alimuha84479016" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ali Nour" height="30" width="40" /></a>
-</p>
 
 
-  
