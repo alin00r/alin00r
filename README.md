@@ -32,7 +32,7 @@
 </p>
 
 ## Stack
-<table text-align ="center">
+<table >
    <tbody>
       <tr>
          <td>OS</td>
