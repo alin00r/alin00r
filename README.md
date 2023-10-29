@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at (SCU);Backend+Developer+with+NodeJS;" alt="Typing SVG" /></a></p>
 
 
-- 🌱 I’m currently working on amazing tool
+- 🌱 I’m currently working on **amazing tool*
   <!--learning **MongoDb** -->
 
 - 📫 How to reach me **alinour30211@gmail.com**
