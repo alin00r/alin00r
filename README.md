@@ -1,10 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ali Nour</h1>
 <h3 align="center">Software Engineer(Backend)</h3>
 
+[![Account: LinkedIn](https://img.shields.io/badge/Ali%20Mohamed-LinkedIn-0077b5)](https://www.linkedin.com/in/alinourr/)
+[![Account: Facebook](https://img.shields.io/badge/Ali%20Mohamed-Facebook-3B5998)](https://www.facebook.com/abo2002nour)
+[![Account: Twitter](https://img.shields.io/badge/Ali%20Mohamed-Twitter-0084b4)](https://twitter.com/Alimuha84479016)
+[![Account: Instagram](https://img.shields.io/badge/Ali%20Mohamed-Instagram-966842)](https://www.instagram.com/alinoourr/)
+[![Account: GitHub](https://img.shields.io/badge/Ali%20Mohamed-GitHub-2b3137)](https://www.github.com/alin00r/)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/alin00r/alin00r/blob/main/AliNourResume.pdf)
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at (SCU);Backend+Developer+with+NodeJS;" alt="Typing SVG" /></a></p>
 
- 
+```python
+const express = require('express');
+const bodyParser = require('body-parser');
+const app = express();
+
+app.use(bodyParser.json());
+app.post('/introduce-yourself', (req, res) => {
+  const name = req.body.name || 'Ali Mohamed';
+  const occupation = req.body.occupation || 'Software Developer';
+  const interests = req.body.interests || ['JavaScript', 'Nodejs', 'Rest Framework'];
+
+  const introduction = `Hello, my name is ${name}. I am a ${occupation} and my interests include ${interests.join(', ')}.`;
+
+  res.json({ introduction });
+});
+```
 - 🌱 I’m currently working on **Amazing Tool** 🙄
   <!--learning   **MongoDb**-->
 
