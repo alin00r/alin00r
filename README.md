@@ -368,6 +368,10 @@ app.post('/introduce-yourself', (req, res) => {
 <!--     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github"> -->
 </p>
 
+### fire: My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alin00r&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 # ⚡ Fun fact
 
 ***The most important step of all is the first step. Start something.***
