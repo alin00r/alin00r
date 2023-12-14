@@ -370,7 +370,12 @@ app.post('/introduce-yourself', (req, res) => {
 
 ### fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alin00r&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alin00r&show_icons=true&locale=en&layout=compact" alt="alin00r" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alin00r&" alt="alin00r" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alin00r&show_icons=true&theme=radical)
 
 # ⚡ Fun fact
 
