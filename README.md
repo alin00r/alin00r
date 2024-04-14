@@ -27,7 +27,7 @@ app.post('/introduce-yourself', (req, res) => {
   res.json({ introduction });
 });
 ```
-- 🌱 I’m currently working on **Amazing Tool** 🙄
+- 🌱 I’m currently learning  **TypeScript** 🙄
   <!--learning   **MongoDb**-->
 
 - 📫 How to reach me **alinour30211@gmail.com**
