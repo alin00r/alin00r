@@ -32,7 +32,7 @@ app.get('/introduce-yourself', (req, res) => {
 ```
 
 
-- 🌱 I’m currently learning  **TypeScript** 🙄
+- 🌱 I’m currently learning  **Nest.Js** 🙄
   <!--learning   **MongoDb**-->
 
 - 📫 How to reach me **alinour30211@gmail.com**
