@@ -39,8 +39,7 @@ app.get('/introduce-yourself', (req, res) => {
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/alin00r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alin00r&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin00r&layout=compact&langs_count=6&theme=radical"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alin00r" alt="GitHub Streak" /></a>
 
 ## Technologies and languages 💻
 
